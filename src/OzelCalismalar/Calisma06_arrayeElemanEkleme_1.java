@@ -1,4 +1,4 @@
-package OzelCalismalarim;
+package OzelCalismalar;
 
 import java.util.Arrays;
 import java.util.Scanner;

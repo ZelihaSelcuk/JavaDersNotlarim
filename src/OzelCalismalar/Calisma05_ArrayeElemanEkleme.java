@@ -1,4 +1,4 @@
-package OzelCalismalarim;
+package OzelCalismalar;
 
 public class Calisma05_ArrayeElemanEkleme {
 
