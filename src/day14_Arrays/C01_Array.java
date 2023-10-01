@@ -2,7 +2,7 @@ package day14_Arrays;
 
 import java.util.Arrays;
 
-public class C03_Array {
+public class C01_Array {
     public static void main(String[] args) {
         // verilen bir array e istenen bir elemanı ekleyip bize döndüren bir method yazin,
         // yeni değeri eski array e atayın

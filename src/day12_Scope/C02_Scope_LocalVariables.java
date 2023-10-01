@@ -53,4 +53,3 @@ public class C02_Scope_LocalVariables {
 
         }
     }
-}
