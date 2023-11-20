@@ -1,6 +1,6 @@
 package day15_multiDimentionalArrays_arrayList;
 
-public class C02_MDA_tumElemenalriToplama {
+public class C02_MDA_tumElemenalariToplama {
     public static void main(String[] args) {
 
         //verilen bir MDA daki tüm sayiları toplayıp toplami yazdıran bir method oluşturun.

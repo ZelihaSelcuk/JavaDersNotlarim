@@ -3,7 +3,7 @@ package day15_multiDimentionalArrays_arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class C10_setMEtodu {
+public class C10_setMetodu {
     public static void main(String[] args) {
 
         List<String> isimler = new ArrayList<>();

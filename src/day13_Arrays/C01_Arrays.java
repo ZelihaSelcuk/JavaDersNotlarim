@@ -19,7 +19,7 @@ bir array oluşturulurken 2 şey mutlaka deklare edilmeldir.
 
         //ilk array de değer ataması yapmadık.
         //eğer array i aşağıdaki gibi oluşturursak
-        // değer ataması yapmadığımız için java ona defaul tdeğeriş atar
+        // değer ataması yapmadığımız için java ona defaul değeriş atar
 
 
         System.out.println(arr[3]); //0
