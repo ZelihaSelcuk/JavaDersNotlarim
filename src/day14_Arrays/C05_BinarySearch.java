@@ -36,7 +36,8 @@ public class C05_BinarySearch {
         System.out.println(Arrays.binarySearch(isimler, "Esra")); // 2
         System.out.println(Arrays.binarySearch(isimler, "Azim")); // 0
         System.out.println(Arrays.binarySearch(isimler, "Omer")); // 5
-
+        System.out.println(Arrays.binarySearch(isimler, "Omer")); // 5
+        
         // eleman yoksa olsaydi hangi sirada olacagini - isareti ile birlikte dondurur
 
         System.out.println(Arrays.binarySearch(isimler, "Ayca")); // -1
